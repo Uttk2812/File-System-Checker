@@ -1,5 +1,10 @@
 
 # File System Checking
+Contributed By
+*Karan Joshi
+*Uttkarsh Kumar Joshi
+*Vinod Singh Barti
+*Vishal Gupta
 
 In this assignment, you will be developing a working file system checker. A
 checker reads in a file system image and makes sure that it is
